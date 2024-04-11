@@ -1,10 +1,17 @@
 body {
-	background-color: #7121AE;
+	background-color: #5A2372;
 }
 
 #y {
 	color: #F3D605;
 	font-size: 48px;
 	font-weight: bold;
-	font-family: "Consolas";
+	font-family: monospace;
 }
+
+#y2 {
+	color: #F3D605;
+	font-size: 24px;
+	font-family: monospace;
+}
+
